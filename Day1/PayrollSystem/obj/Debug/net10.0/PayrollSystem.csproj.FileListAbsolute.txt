@@ -1,0 +1,14 @@
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\bin\Debug\net10.0\PayrollSystem.exe
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\bin\Debug\net10.0\PayrollSystem.deps.json
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\bin\Debug\net10.0\PayrollSystem.runtimeconfig.json
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\bin\Debug\net10.0\PayrollSystem.dll
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\bin\Debug\net10.0\PayrollSystem.pdb
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.AssemblyInfoInputs.cache
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.AssemblyInfo.cs
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.dll
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\obj\Debug\net10.0\refint\PayrollSystem.dll
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.pdb
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.genruntimeconfig.cache
+D:\Capgemini Training\ReTraining\Day1\PayrollSystem\obj\Debug\net10.0\ref\PayrollSystem.dll

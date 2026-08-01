@@ -1,0 +1,14 @@
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\bin\Debug\net10.0\WareHouseMngr.exe
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\bin\Debug\net10.0\WareHouseMngr.deps.json
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\bin\Debug\net10.0\WareHouseMngr.runtimeconfig.json
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\bin\Debug\net10.0\WareHouseMngr.dll
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\bin\Debug\net10.0\WareHouseMngr.pdb
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\obj\Debug\net10.0\WareHouseMngr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\obj\Debug\net10.0\WareHouseMngr.AssemblyInfoInputs.cache
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\obj\Debug\net10.0\WareHouseMngr.AssemblyInfo.cs
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\obj\Debug\net10.0\WareHouseMngr.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\obj\Debug\net10.0\WareHouseMngr.dll
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\obj\Debug\net10.0\refint\WareHouseMngr.dll
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\obj\Debug\net10.0\WareHouseMngr.pdb
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\obj\Debug\net10.0\WareHouseMngr.genruntimeconfig.cache
+D:\Capgemini Training\ReTraining\Day1\WareHouseMngr\obj\Debug\net10.0\ref\WareHouseMngr.dll

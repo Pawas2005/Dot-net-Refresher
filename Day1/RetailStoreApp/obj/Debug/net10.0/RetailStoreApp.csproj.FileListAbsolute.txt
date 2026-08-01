@@ -1,0 +1,14 @@
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\obj\Debug\net10.0\RetailStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\obj\Debug\net10.0\RetailStoreApp.AssemblyInfoInputs.cache
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\obj\Debug\net10.0\RetailStoreApp.AssemblyInfo.cs
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\obj\Debug\net10.0\RetailStoreApp.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\bin\Debug\net10.0\RetailStoreApp.exe
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\bin\Debug\net10.0\RetailStoreApp.deps.json
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\bin\Debug\net10.0\RetailStoreApp.runtimeconfig.json
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\bin\Debug\net10.0\RetailStoreApp.dll
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\bin\Debug\net10.0\RetailStoreApp.pdb
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\obj\Debug\net10.0\RetailStoreApp.dll
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\obj\Debug\net10.0\refint\RetailStoreApp.dll
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\obj\Debug\net10.0\RetailStoreApp.pdb
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\obj\Debug\net10.0\RetailStoreApp.genruntimeconfig.cache
+D:\Capgemini Training\ReTraining\Day1\RetailStoreApp\obj\Debug\net10.0\ref\RetailStoreApp.dll

@@ -1,0 +1,14 @@
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\bin\Debug\net10.0\StudentAdminApp.exe
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\bin\Debug\net10.0\StudentAdminApp.deps.json
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\bin\Debug\net10.0\StudentAdminApp.runtimeconfig.json
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\bin\Debug\net10.0\StudentAdminApp.dll
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\bin\Debug\net10.0\StudentAdminApp.pdb
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\obj\Debug\net10.0\StudentAdminApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\obj\Debug\net10.0\StudentAdminApp.AssemblyInfoInputs.cache
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\obj\Debug\net10.0\StudentAdminApp.AssemblyInfo.cs
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\obj\Debug\net10.0\StudentAdminApp.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\obj\Debug\net10.0\StudentAdminApp.dll
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\obj\Debug\net10.0\refint\StudentAdminApp.dll
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\obj\Debug\net10.0\StudentAdminApp.pdb
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\obj\Debug\net10.0\StudentAdminApp.genruntimeconfig.cache
+D:\Capgemini Training\ReTraining\Day1\StudentAdminApp\obj\Debug\net10.0\ref\StudentAdminApp.dll
